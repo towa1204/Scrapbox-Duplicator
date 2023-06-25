@@ -1,4 +1,12 @@
-import { assertString, exportPages, importPages } from "./deps.ts";
+import {
+  assertString,
+  exportPages,
+  getProfile,
+  GuestUser,
+  importPages,
+  MemberUser,
+} from "./deps.ts";
+import { replaceIconName } from "./replace.ts";
 
 const fromSID = Deno.env.get("SOURCE_PROJECT_SID");
 const toSID = Deno.env.get("DESTINATION_PROJECT_SID");
@@ -43,11 +51,29 @@ if (importingPages.length === 0) {
   Deno.exit();
 }
 
+// ページに含まれるアイコンを置換する
+const isMemberUser = (user: MemberUser | GuestUser): user is MemberUser => {
+  return "config" in user;
+};
+const fromUserProfile = await getProfile({ sid: fromSID });
+if (!isMemberUser(fromUserProfile)) {
+  throw new Error();
+}
+const toUserProfile = await getProfile({ sid: toSID });
+if (!isMemberUser(toUserProfile)) {
+  throw new Error();
+}
+const replacedPages = replaceIconName(
+  importingPages,
+  `${fromUserProfile.name}.icon`,
+  `${toUserProfile.name}.icon`,
+);
+
 console.log(
   `Importing ${importingPages.length} pages to "/${importProjectName}"...`,
 );
 const importResult = await importPages(importProjectName, {
-  pages: importingPages,
+  pages: replacedPages,
 }, {
   sid: toSID,
 });
