@@ -1,0 +1,447 @@
+{
+  "name": "test-20230612",
+  "displayName": "test-20230612",
+  "exported": 1686932468,
+  "users": [
+    {
+      "id": "6486ef465839fe001c10f9ae",
+      "name": "test",
+      "displayName": "テストアカウント",
+      "email": "hoge"
+    }
+  ],
+  "pages": [
+    {
+      "title": "2023年6月17日",
+      "created": 1686568713,
+      "updated": 1686932354,
+      "id": "6486ff07f2cdea001c1d4d87",
+      "lines": [
+        {
+          "text": "2023年6月17日",
+          "created": 1686568713,
+          "updated": 1686929842,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "[test.icon]",
+          "created": 1686929903,
+          "updated": 1686929903,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": " 最近、[雨]の日が続いていて憂鬱だった",
+          "created": 1686929826,
+          "updated": 1686929974,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "　雨の日は[ふらいんぐうぃっち]のEDを聴くことが多い[test.icon*2]",
+          "created": 1686926180,
+          "updated": 1686932344,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "",
+          "created": 1686568728,
+          "updated": 1686568728,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "私のアイコンを表示するには`[test.icon]`と入力してください",
+          "created": 1686932267,
+          "updated": 1686932309,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "",
+          "created": 1686932272,
+          "updated": 1686932272,
+          "userId": "6486ef465839fe001c10f9ae"
+        }
+      ]
+    },
+    {
+      "title": "test",
+      "created": 1686568822,
+      "updated": 1686926933,
+      "id": "6486ff75f1dbe4001b9816c9",
+      "lines": [
+        {
+          "text": "test",
+          "created": 1686568822,
+          "updated": 1686568822,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "",
+          "created": 1686568822,
+          "updated": 1686568822,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "[https://lh3.googleusercontent.com/a/AAcHTte3oyXNWY_FEowfbAGSqQKeTl85OgNKAt_i1Sql=s96-c#.png]",
+          "created": 1686568822,
+          "updated": 1686568822,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "",
+          "created": 1686568822,
+          "updated": 1686568822,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "ここはtestのページです[Scrapbox Beaver.icon]",
+          "created": 1686568822,
+          "updated": 1686568822,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": " 自己紹介などを書きましょう",
+          "created": 1686568822,
+          "updated": 1686568822,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "",
+          "created": 1686568822,
+          "updated": 1686568822,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "`control - i` キーを押すと、自分のアイコン[test.icon]をすばやく入力できます[Scrapbox Beaver.icon]",
+          "created": 1686568822,
+          "updated": 1686926933,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": " ページ内で一番上にある画像がアイコンに使用されます",
+          "created": 1686568822,
+          "updated": 1686568822,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "  ページリスト画面でも表示されます",
+          "created": 1686568822,
+          "updated": 1686568822,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": " アイコンは意見の表明や、投票などにも使えます[Scrapbox Beaver.icon]",
+          "created": 1686568822,
+          "updated": 1686568822,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "  なるほど（これは返信の例です）[test.icon]",
+          "created": 1686568822,
+          "updated": 1686568822,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "",
+          "created": 1686568822,
+          "updated": 1686568822,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "#member",
+          "created": 1686568822,
+          "updated": 1686568822,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "",
+          "created": 1686568822,
+          "updated": 1686568822,
+          "userId": "6486ef465839fe001c10f9ae"
+        }
+      ]
+    },
+    {
+      "title": "Scrapboxの使い方",
+      "created": 1686564756,
+      "updated": 1686564756,
+      "id": "6486ef94f7408c001c21f025",
+      "lines": [
+        {
+          "text": "Scrapboxの使い方",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "Scrapboxへようこそ。このページは自由に編集して活用できます。",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "このプロジェクトにメンバーを招待しましょう",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "\t左上のメニューのProject Settingsから、他の人を招待できるリンクを取得できます。",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": " Scrapboxでは同一ページを複数人でリアルタイムに共同編集できます。",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "基本的な使い方を試してみよう",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "\t行頭にスペースまたはタブを入れて段落を作ることができます。",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": " `[ ]` で囲むと[別ページ]への[リンク]になります。",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": " `#` のあとに書いた文字は #ハッシュタグ になります。動作はリンクと同じです。",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": " `[`と` ]` の中に画像URLやYoutube/Vimeoの動画URLを書くと画像や動画を表示できます。",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": " \t例:",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "  \t[https://gyazo.com/5f93e65a3b979ae5333aca4f32600611]",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "\t個人のプロフィールを設定して自分のページを作りましょう（左上のメニューからEdit profile）。その後、",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": " \t`ctrl + i`を入力、または `[ユーザー名.icon]` を書くとアイコンを埋め込めます。",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "  自分のページだけでなく、あらゆるページをアイコン化できます。例: [Scrapboxの使い方.icon]",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "\tすべての記法は、[/help-jp/ブラケティング]をご覧ください",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "リンクの効果的な使い方",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "\t[Scrapbox]は、[リンク]から[つながり]を作ることで、関連するものを見つけ出し、整理できるのが特長です。",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": " \t[読んだ本]、[人物]、[タスク]など[自由]にリンクやハッシュタグを作っていきましょう！",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "ページをトップに固定する (ピン留め)",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": " 右上のメニューから`Pin at home`を選択すると、ページをリストの一番上に固定できます。",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": " [https://gyazo.com/c3a68ab8928396608ef24349051c9d71]",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": " `Pin at home`には様々な活用方法があります。",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "  自己紹介やプロジェクトの目的を書く",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "  最初に読んでほしいページを目立たせる",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "  招待URLを公開し、共同編集者を広く募る",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "  新規投稿用のテンプレートを置く",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "詳しい使い方",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "\t[/help-jp/]をご覧ください。",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": " 英語版は[/help/]にあります。",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "質問がある場合",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "\t[お問い合わせ https://scrapbox.io/contact] からどうぞ。ご要望は[/forum-jp]でも受け付けています。",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "使い方のサンプルが見たい",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "\t[/help-jp/サンプル]を複数掲載しています",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "企業でご利用の方へ",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "\tNota社の社内利用の実例が[/nota-private-sample]にあります",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": " [企業の利用事例を掲載しています https://scrapbox.io/case]",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        },
+        {
+          "text": "",
+          "created": 1686564756,
+          "updated": 1686564756,
+          "userId": "6486ef465839fe001c10f9ae"
+        }
+      ]
+    }
+  ]
+}
